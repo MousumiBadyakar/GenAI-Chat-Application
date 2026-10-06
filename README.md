@@ -37,3 +37,7 @@ GenAI-Chat-Application/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
+
+## 👩‍💻 Author
+Mousumi Badyakar
