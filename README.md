@@ -13,6 +13,7 @@ The application provides a clean chat interface where users can enter prompts an
 - 💬 Interactive chatbot interface
 - 🤖 AI-generated responses using Google Gemini
 - 🧠 Maintains conversation history during the session
+- 🔄 Start a new conversation using the New Chat option
 - 🌐 Deployed using Streamlit Community Cloud
 - 🔐 API key stored securely using Streamlit Secrets
 - 🖥️ Simple and beginner-friendly UI
@@ -36,8 +37,3 @@ GenAI-Chat-Application/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
-
-👩‍💻 Author
-
-Mousumi Badyakar
